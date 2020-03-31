@@ -19,6 +19,15 @@
 </ul>
 <br>
 <img src="https://i.imgur.com/qIdL0lW.png">
+<br>
+<h3>Used Technologies - </h3>
+ul>
+<li>Javascript</li>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+
+<p alig="center">Made with ❤ by <a href="https://www.facebook.com/Tripto.Afsin">TriptoAfsin</a></p>
 
 
 
