@@ -26,6 +26,9 @@
 <li>HTML</li>
 <li>CSS</li>
 </ul>
+<br>
+<h3>Usage(Web link) - </h3>
+ https://triptoafsin.github.io/CountKoto-/
 
 <p>Made with ❤ by <a href="https://www.facebook.com/Tripto.Afsin">TriptoAfsin</a></p>
 
