@@ -1,4 +1,4 @@
-# CountKoto-
+# About CountKoto? -
 
 <h1 align="center">CountKoto? by TriptoAfsin</h1>
 
@@ -17,6 +17,7 @@
 <li>denier</li>
 <li>Spyndle</li>
 </ul>
+<br>
 <img src="https://i.imgur.com/qIdL0lW.png">
 
 
