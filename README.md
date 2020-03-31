@@ -18,7 +18,7 @@
 <li>Spyndle</li>
 </ul>
 <br>
-<img src="https://i.imgur.com/qIdL0lW.png">
+<img src="https://i.imgur.com/N0Eaeu1.png">
 <br>
 <h3>Used Technologies - </h3>
 <ul>
